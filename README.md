@@ -25,7 +25,7 @@ smart-ats/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-repo/smart-ats.git
+git clone https://github.com/MVenkatsai02/ATS-Resume-Tracker-Gen-AI
 cd smart-ats
 ```
 
